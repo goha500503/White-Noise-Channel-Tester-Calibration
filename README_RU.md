@@ -36,10 +36,7 @@
      
     `pip install -r requirements.txt`
      
-     *Файл*  `requirements.txt` должен содержать:
-     
-    `numpy sounddevice PyQt5`
-     
+
 
 ## Запуск
  
