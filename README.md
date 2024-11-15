@@ -39,10 +39,6 @@ An application for testing the audio channels of home theater systems and calibr
      
     `pip install -r requirements.txt`
      
-     *The*  `requirements.txt` file should contain:
-     
-    `numpy sounddevice PyQt5`
-     
 
 ## Running the Application
  
