@@ -20,6 +20,8 @@ An application for testing the audio channels of home theater systems and calibr
 *   **Interface Language Selection**
      
 *   **Speaker Gain Calibration**
+       
+*   **FR graph**
      
 
 ## Installation
