@@ -1,1 +1,1 @@
-numpy sounddevice PyQt5
+numpy sounddevice PyQt5 matplotlib scipy
