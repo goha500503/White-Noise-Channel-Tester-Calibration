@@ -1,7 +1,9 @@
 # White Noise Channel Tester
  
 An application for testing the audio channels of home theater systems and calibrating the gain of each speaker.
- 
+ ![image](https://github.com/user-attachments/assets/817e8c17-97d1-468f-aca5-d26ebc602bdc)
+![image](https://github.com/user-attachments/assets/d0bac1b6-c1ec-4a81-963a-bb0b436f75e0)
+
 
 Описание на русском [https://github.com/goha500503/White-Noise-Channel-Tester-Calibration/blob/main/README\_RU.md](https://github.com/goha500503/White-Noise-Channel-Tester-Calibration/blob/main/README_RU.md) 
  
